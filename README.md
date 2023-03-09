@@ -1,4 +1,4 @@
-# VersaInternshipChallenge#1
+# VersaInternshipCaseStudy
 
 ---
 
