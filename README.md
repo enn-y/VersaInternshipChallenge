@@ -1,4 +1,4 @@
-# VersaInternshipCaseStudy
+# Versa Internship Case Study
 
 ---
 
